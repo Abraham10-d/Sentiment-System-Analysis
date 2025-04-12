@@ -25,6 +25,3 @@
   - **50.8%** of additional commments identified **POSITIVE**.
   - **27.9%** of additional comments identified **NEGATIVE**.
   - **21.3%** of additional comments identified **NEUTRAL**.
-  
-- **Visualization**
-  - ![Question 13 (Post-Survey)](https://github.com/user-attachments/assets/a4dcbf86-e4c2-4ca4-b87b-80f5d4474f6c)
