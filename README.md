@@ -22,6 +22,7 @@
 
 ## Results
 - **Key insights**
+
   - **50.8%** of additional commments identified **POSITIVE**.
   - **27.9%** of additional comments identified **NEGATIVE**.
   - **21.3%** of additional comments identified **NEUTRAL**.
